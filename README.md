@@ -1,2 +1,4 @@
-# quickstart_resources
-Quickstart resources for new students
+# Quickstart resources
+- TODO1
+- TODO2
+- TODO3
