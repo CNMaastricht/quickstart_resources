@@ -6,4 +6,4 @@ A minimal list of resources for newcomers to start from:
 - See a searchable list of extensive resources [here](https://learn-neuroimaging.github.io/tutorials-and-resources/programming/).
 
 # Contribute
-If you would like to add other resoures to this list feel free to post a message in the issues page or request permission to edit this page (for CNMaastricht members).
+If you would like to add other resoures to this list feel free to post a message in [the issues page of this repository](https://github.com/CNMaastricht/quickstart_resources/issues) or request permission to edit this page (for CNMaastricht members).
